@@ -14,6 +14,6 @@ Tecnologias que eu utilizo no meu dia
   <img align="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img align="center" alt="ORACLE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
  </div><br/>
- Entusiasta da tecnologia, sempre aprendendo coisas novas para evoluir não só na Programação mas na vida.
+ Entusiasta da tecnologia, sempre aprendendo coisas novas para evoluir não só na programação mas na vida.
   
  
