@@ -5,6 +5,8 @@ Olá! Eu sou o Davi 🔥
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=dsaoDev&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaoDev)](https://github.com/anuraghazra/github-readme-stats)
+
 Tecnologias que eu utilizo no meu dia 
 <div style="display:inline_block"><br/>
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
