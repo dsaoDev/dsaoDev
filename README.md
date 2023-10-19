@@ -3,8 +3,8 @@
 
 
 <div>
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=dsaoDev&show_icons=true&theme=synthwave">
-  <img height ="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dsaoDev&layout=compact&theme=synthwave">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=dsaoDev&show_icons=true&theme=synthwave">
+  <img height ="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dsaoDev&layout=compact&theme=synthwave">
 </div>
 
 
