@@ -1,4 +1,4 @@
-# Hi there! I'm Davi Let's Connect and Code Together! 🔥👨‍💻💗
+# Hi there! I'm Davi Let's Code Together! 🔥👨‍💻💗
 
 
 
