@@ -18,7 +18,7 @@
   <img align="center" alt="Git" height= "50" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
    <img align="center" alt="Postman" height= "50" width = "60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
    <img align ="center" alt="Docker" height= "50" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img align="center" alt="InteliJ" height= "50" width = "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <img align="center" alt="InteliJ" height= "50" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
 </div>
 
 ##
