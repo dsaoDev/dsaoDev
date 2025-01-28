@@ -1,4 +1,4 @@
-## Olá eu sou o Davi! Seja Bem vindo ao meu Github 🔥👨‍💻💗
+# Hi there! I'm Davi Let's Connect and Code Together! 🔥👨‍💻💗
 
 
 
@@ -9,6 +9,8 @@
 
 ##
 
+### Languages and Tools:
+
 <div style="display:inline_block"><br>
   <img align="center" alt="Java" height= "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="MySQL" height= "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
@@ -17,5 +19,8 @@
   <img align="center" alt="InteliJ" height= "40" width = "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
 </div>
 
-  ##
+##
+
+### Connect with me:
+
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-silva-b91211271/)
