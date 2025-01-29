@@ -1,8 +1,10 @@
 # Hi there! I'm Davi Let's Code Together! 🔥👨‍💻💗
 
- Computer Science Student 👨‍💻
+<div align="center">
+  <p>Computer Science Student 👨‍💻</p>
+<p> Currently studying Java with Spring Boot and enhancing my backend development skills.</p>
+</div>
 
-Currently studying Java with Spring Boot and enhancing my backend development skills.
 
 
 
