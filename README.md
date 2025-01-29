@@ -27,6 +27,9 @@ Currently studying Java with Spring Boot and enhancing my backend development sk
 
 ##
 
-### Connect with me:
+### Contact me:
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-silva-tech/)
+ [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dsaodev@gmail.com)
+ [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:davissgt1@hotmail.com)
+ [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@davi_silva4350/)
